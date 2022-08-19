@@ -1,0 +1,70 @@
+"SAINC1 Personal Income Summary: Personal Income, Population, Per Capita Personal Income"
+"Per capita personal income (Dollars) 2/" 
+"Bureau of Economic Analysis" 
+"State or DC"
+"GeoFips","GeoName","2018"
+"00000","United States",53817
+"01000","Alabama",41607
+"02000","Alaska *",59783
+"04000","Arizona",45299
+"05000","Arkansas",43661
+"06000","California",61509
+"08000","Colorado",58471
+"09000","Connecticut",73176
+"10000","Delaware",52839
+"11000","District of Columbia",82512
+"12000","Florida",51444
+"13000","Georgia",46824
+"15000","Hawaii *",52174
+"16000","Idaho",43356
+"17000","Illinois",56512
+"18000","Indiana",47100
+"19000","Iowa",49212
+"20000","Kansas",50811
+"21000","Kentucky",41977
+"22000","Louisiana",46062
+"23000","Maine",48220
+"24000","Maryland",60630
+"25000","Massachusetts",69517
+"26000","Michigan",47314
+"27000","Minnesota",56568
+"28000","Mississippi",37927
+"29000","Missouri",47230
+"30000","Montana",47808
+"31000","Nebraska",52023
+"32000","Nevada",49737
+"33000","New Hampshire",60929
+"34000","New Jersey",64759
+"35000","New Mexico",41145
+"36000","New York",65097
+"37000","North Carolina",46272
+"38000","North Dakota",55511
+"39000","Ohio",48438
+"40000","Oklahoma",46474
+"41000","Oregon",50536
+"42000","Pennsylvania",55184
+"44000","Rhode Island",52550
+"45000","South Carolina",44326
+"46000","South Dakota",52590
+"47000","Tennessee",47006
+"48000","Texas",52019
+"49000","Utah",46002
+"50000","Vermont",52191
+"51000","Virginia",56738
+"53000","Washington",60178
+"54000","West Virginia",41300
+"55000","Wisconsin",50818
+"56000","Wyoming",60353
+"91000","New England",65737
+"92000","Mideast",61927
+"93000","Great Lakes",50503
+"94000","Plains",51419
+"95000","Southeast",47633
+"96000","Southwest",49815
+"97000","Rocky Mountain",52220
+"98000","Far West",59627
+"Legend / Footnotes:"
+"2/ Per capita personal income is total personal income divided by total midyear population. BEA produced intercensal population figures for 2010 to 2019 that are tied to the Census Bureau decennial counts for 2010 and 2020 to create consistent time series that are used to prepare per capita personal income statistics. BEA used the Census Bureau Das Gupta method (see https://www2.census.gov/programs-surveys/popest/technical-documentation/methodology/intercensal/2000-2010-intercensal-estimates-methodology.pdf), modified to account for an extra leap year day, to produce the intercensal population figures that will be used until Census releases its official intercensal population data."
+"* Estimates prior to 1950 are not available for Alaska and Hawaii."
+"Note. All dollar estimates are in millions of current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
+"Last updated: March 23, 2022—preliminary statistics for 2021; revised statistics for 2010-2020."
