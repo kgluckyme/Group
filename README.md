@@ -54,9 +54,9 @@ Project 31 Submission - August 2022
 ## **Outcomes**
 - After anylyzing the data, our team was able to determine in a general sense the best state to register a start up. Vizualizations of our final accuracy score outcomes are below. Please see our uploaded slide show for more information on the outcomes.
 
-![](Images/accuracy_score_grid.PNG)
+![](https://github.com/kgluckyme/Group/blob/main/Top%205%20States%20for%20a%20Startup.png)
 
-![](Images/accuracy_score_viz.PNG)
+![](https://github.com/kgluckyme/Group/blob/main/Bottom%205%20States%20for%20a%20Startup.png)
 
 ## **Presentation Assignments**
 - Intro & Hypothesis: Kevin
