@@ -1,5 +1,5 @@
 # Best state to register a startup
-Project 31 Submission - August 2022
+Project 1 Submission - August 2022
 
 ## **Team Members**
 - Kevin Olsen
