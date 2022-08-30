@@ -35,7 +35,7 @@ Project 1 Submission - August 2022
 
 ## **Work Assignments**
 - Workbook - Whole Team
-- Data Visualizations & Dashboard - Arandi + Kyle
+- Data Visualizations & Dashboard -  Kyle + Arandi
 - Slide Show - Whole Team
 
 ## **Technologies**
